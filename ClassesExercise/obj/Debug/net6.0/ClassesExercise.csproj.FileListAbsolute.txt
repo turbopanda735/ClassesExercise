@@ -1,0 +1,15 @@
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\bin\Debug\net6.0\ClassesExercise.exe
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\bin\Debug\net6.0\ClassesExercise.deps.json
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\bin\Debug\net6.0\ClassesExercise.runtimeconfig.json
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\bin\Debug\net6.0\ClassesExercise.dll
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\bin\Debug\net6.0\ClassesExercise.pdb
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.csproj.AssemblyReference.cache
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.AssemblyInfoInputs.cache
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.AssemblyInfo.cs
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.csproj.CoreCompileInputs.cache
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.dll
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\refint\ClassesExercise.dll
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.pdb
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ClassesExercise.genruntimeconfig.cache
+E:\repos\classes exercises\stop watch\ClassesExercise\ClassesExercise\obj\Debug\net6.0\ref\ClassesExercise.dll
